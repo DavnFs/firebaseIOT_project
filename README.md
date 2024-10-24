@@ -1,7 +1,3 @@
-Berikut adalah contoh README.md yang cantik untuk proyek Anda tanpa menampilkan kode Flutter:
-
----
-
 # IoT Smart Sensor Monitoring System
 
 This project is an IoT-based system that monitors environmental data such as **temperature**, **humidity**, and **LED status** using NodeMCU ESP8266. The data is stored in Firebase Realtime Database and displayed in a mobile app. The system is designed to provide real-time data visualization for monitoring room conditions efficiently.
