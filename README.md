@@ -55,5 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [NodeMCU ESP8266 Documentation](https://nodemcu.readthedocs.io/)
 
 ---
-
-Feel free to adjust the content based on your specific project details, screenshots, or additional features!
